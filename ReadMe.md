@@ -1,1 +1,1 @@
-<img src="/assets/1.gif" height="42" width="42"> target="_blank">
+<img src="/assets/1.gif" height="500" width="500">
